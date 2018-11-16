@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "202284309465",
+    "firebase_url": "https://fir-loginapp-1c73f.firebaseio.com",
+    "project_id": "fir-loginapp-1c73f",
+    "storage_bucket": "fir-loginapp-1c73f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202284309465:android:14e4fdb1f351a670",
+        "android_client_info": {
+          "package_name": "com.praktikumprgomob.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202284309465-kcqf5ds109nhr3epb4sd0cfiche2aj2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtizNLMseXkb1ZxnsC37GzBFENjOUf6fA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
